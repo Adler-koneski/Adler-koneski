@@ -34,11 +34,11 @@ Tenho grande interesse em participar de projetos inovadores, aprender com profis
 
 ---
 
+
 <div align="center">
 
 ![Adler's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Adler-koneski&show_icons=true&theme=dark&hide_title=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adler-koneski&layout=compact&theme=dark)
 
 </div>
-
 
